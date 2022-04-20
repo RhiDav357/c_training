@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include <iostream>
 
 using namespace std;
@@ -36,9 +34,9 @@ void addFour(int *pValues, unsigned numValues)
     }
 }
 
-void subtractSeven(int *piVal)
+void subtractSix(int *piVal)
 {
-    *piVal -= 7;
+    *piVal -= 6;
 }
 
 int main( int argc, char *argv[])
@@ -56,7 +54,7 @@ int main( int argc, char *argv[])
 
     for (j = 0; j < NUM_VALUES; ++j)
     {
-        subtractSeven(&aiValues[j]);
+        subtractSix(&aiValues[j]);
     }
 
     addFour(aiValues, NUM_VALUES);
