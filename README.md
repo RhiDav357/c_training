@@ -1,6 +1,6 @@
 # C Training
 
-This README provides intructions for c++ exercises focussed on different data structures. They are designed to be done in order. Example solutions are provided in the Solutions folder. Only look at these solutions after attempting each of the exercises.
+This README provides intructions for c++ exercises focussed on different data structures. The exercises should be attempted after working through all the exercises from [Chortle C Puzzles](https://chortle.ccsu.edu/cpuzzles/CpuzzlesMain.html) and are designed to be done in order. Example solutions are provided in the Solutions folder. Only look at these solutions after attempting each of the exercises.
 
 ## Exercises
 ### 1. Arrays
