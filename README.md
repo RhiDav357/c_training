@@ -1,6 +1,10 @@
 # C Training
 
-This README provides intructions for c++ exercises focussed on different data structures. The exercises should be attempted after working through all the exercises from [Chortle C Puzzles](https://chortle.ccsu.edu/cpuzzles/CpuzzlesMain.html) and are designed to be done in order. Example solutions are provided in the Solutions folder. Only look at these solutions after attempting each of the exercises.
+This README provides intructions for c++ exercises focussed on different data structures. The exercises are designed to be done in order and example solutions are provided in the Solutions folder. Only look at these solutions after attempting each of the exercises.
+
+## Prerequisites
+
+1) Compelted all the exercises from [Chortle C Puzzles](https://chortle.ccsu.edu/cpuzzles/CpuzzlesMain.html).
 
 ## Exercises
 
@@ -30,7 +34,7 @@ Use the asert library to perform some error checking.
 
 Write a program that will consider durations as having a minute protion and a second portion. Your program will take 2 durations (can be hardcoded) and add these durations together and print out the result. Your program should also be able to round a duration to the nearest minute.
 
-### Complex Numbers
+### 4. Complex Numbers
 
 Write a program that will take two complex numbers and:
 
@@ -38,7 +42,24 @@ Write a program that will take two complex numbers and:
 * COnjugate one of them to create a new complex number.
 * Perform a basic arithmentic fucntion on one of the existing complex numbers.
 
-After each of these steps you should print the result tok screen.
+After each of these steps you should print the result to screen.
+
+### 5. Vector
+
+Create a program that will create a vector, return the size of the vector, get the value at a particular place in the vector and push back on the vector. The output of the program should print out the the vector to screen.
+
+### 6. List
+
+Create a program that will impliment a doubly linked list. You should the following procedures:
+
+* Push front
+* Push back
+* Pop front
+* Insert after node
+
+### 7. Set
+
+Create a program that will create, insert into and print an ordered set. Pay special attention to how it sorts the set when values are added out of order.
 
 ## Contributing
 
