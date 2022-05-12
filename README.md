@@ -23,24 +23,24 @@ Print out the array at each stage so you can see the changes. Try to use a diffe
 
 Write a program that will take an integer i as a command line argument,then:
 
-* Create an array of length i, polulated with even integers.
+* Create an array of length i, populated with even integers.
 * Perform an arithmatic function to each of the integers in that array.
 * Print that array.
 * Destroy the array.
 
-Use the asert library to perform some error checking.
+Use the assert library to perform some error checking.
 
-### 3. Duration
+### 3. Duration - Structs
 
-Write a program that will consider durations as having a minute protion and a second portion. Your program will take 2 durations (can be hardcoded) and add these durations together and print out the result. Your program should also be able to round a duration to the nearest minute.
+Write a program that will consider durations as having a minute portion and a second portion. Your program will take 2 durations (can be hardcoded) and add these durations together and print out the result. Your program should also be able to round a duration to the nearest minute.
 
-### 4. Complex Numbers
+### 4. Complex Numbers - Structs
 
 Write a program that will take two complex numbers and:
 
 * Increment one by the other.
-* COnjugate one of them to create a new complex number.
-* Perform a basic arithmentic fucntion on one of the existing complex numbers.
+* Conjugate one of them to create a new complex number.
+* Perform a basic arithmetic function on one of the existing complex numbers.
 
 After each of these steps you should print the result to screen.
 
