@@ -1,4 +1,4 @@
-# C Training
+# C++ Training
 
 This README provides intructions for c++ exercises focussed on different data structures. The exercises are designed to be done in order and example solutions are provided in the Solutions folder. Only look at these solutions after attempting each of the exercises.
 
