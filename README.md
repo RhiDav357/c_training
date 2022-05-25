@@ -4,7 +4,7 @@ This README provides intructions for c++ exercises focussed on different data st
 
 ## Prerequisites
 
-1) Compelted all the exercises from [Chortle C Puzzles](https://chortle.ccsu.edu/cpuzzles/CpuzzlesMain.html).
+1) Completed all the exercises from [Chortle C Puzzles](https://chortle.ccsu.edu/cpuzzles/CpuzzlesMain.html).
 
 ## Exercises
 
