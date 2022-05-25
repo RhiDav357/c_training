@@ -110,7 +110,13 @@ void List_InsertAfterNode(List_t *pList, Node_t *pNode, Value_t val)
 
 void List_PopFront(List_t *pList)
 {
-
+    if (pList->pFirstNode != nullptr)
+        {
+            pList->pFirstNode->pnext->pPrev = nullptr;
+            delete (pList->pFirstNode);
+            pList->pFirstNode =  pList->pFirstNode->pNext;
+        }
+    
 }
 
 int main(int argc, char *argv[])
